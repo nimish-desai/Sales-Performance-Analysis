@@ -90,3 +90,9 @@ This project uses fictional practice data created for educational and portfolio-
 
 Nimish Desai
 
+## Dashboard Preview
+
+The following dashboard summarises overall sales performance, including key performance indicators and sales breakdowns by city and product.
+
+![Sales Performance Dashboard](Images/Sales_Dashboard.png.png)
+
