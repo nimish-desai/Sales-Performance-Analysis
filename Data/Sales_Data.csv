@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,City,Region,Product,Category,Units_Sold,Unit_Price_INR,Discount_INR,Sales_Channel,Payment_Mode
+3001,03-01-2026,Mumbai,West,Laptop,Electronics,1,48000,2000,Online,UPI
+3002,04-01-2026,Pune,West,Mouse,Accessories,3,600,0,Store,Cash
+3003,05-01-2026,Delhi,North,Monitor,Electronics,2,11000,1000,Online,Credit Card
+3004,06-01-2026,Navi Mumbai,West,Keyboard,Accessories,2,1600,200,Store,UPI
+3005,08-01-2026,Bengaluru,South,Headphones,Accessories,4,2000,500,Online,Credit Card
+3006,09-01-2026,Mumbai,West,Monitor,Electronics,1,12000,500,Store,UPI
+3007,10-01-2026,Delhi,North,Laptop,Electronics,2,50000,3000,Online,Net Banking
+3008,11-01-2026,Pune,West,Keyboard,Accessories,3,1500,0,Online,UPI
+3009,12-01-2026,Bengaluru,South,Laptop,Electronics,1,52000,2500,Store,Credit Card
+3010,14-01-2026,Navi Mumbai,West,Mouse,Accessories,5,550,100,Online,UPI
+3011,15-01-2026,Mumbai,West,Headphones,Accessories,2,2500,300,Online,Credit Card
+3012,16-01-2026,Delhi,North,Monitor,Electronics,1,11500,0,Store,Cash
+3013,18-01-2026,Pune,West,Laptop,Electronics,1,49000,1500,Store,Net Banking
+3014,19-01-2026,Bengaluru,South,Keyboard,Accessories,4,1700,200,Online,UPI
+3015,20-01-2026,Mumbai,West,Mouse,Accessories,6,500,0,Store,Cash
+3016,22-01-2026,Navi Mumbai,West,Laptop,Electronics,1,51000,2000,Online,Credit Card
+3017,23-01-2026,Delhi,North,Headphones,Accessories,3,2200,200,Store,UPI
+3018,24-01-2026,Pune,West,Monitor,Electronics,2,10800,600,Online,Credit Card
+3019,25-01-2026,Bengaluru,South,Mouse,Accessories,4,650,100,Store,UPI
+3020,27-01-2026,Mumbai,West,Laptop,Electronics,1,50000,1000,Online,Net Banking
+3021,01-02-2026,Delhi,North,Keyboard,Accessories,2,1800,100,Online,UPI
+3022,03-02-2026,Pune,West,Headphones,Accessories,3,2400,300,Store,Credit Card
+3023,05-02-2026,Navi Mumbai,West,Monitor,Electronics,1,12000,0,Online,UPI
+3024,07-02-2026,Bengaluru,South,Laptop,Electronics,2,48500,2000,Online,Credit Card
+3025,09-02-2026,Mumbai,West,Keyboard,Accessories,3,1600,150,Store,UPI
+3026,11-02-2026,Delhi,North,Mouse,Accessories,5,600,100,Store,Cash
+3027,13-02-2026,Pune,West,Laptop,Electronics,1,53000,2500,Online,Net Banking
+3028,15-02-2026,Bengaluru,South,Monitor,Electronics,2,11200,800,Store,Credit Card
+3029,17-02-2026,Mumbai,West,Headphones,Accessories,3,2300,200,Online,UPI
+3030,20-02-2026,Navi Mumbai,West,Keyboard,Accessories,4,1550,200,Store,Cash
